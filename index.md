@@ -45,14 +45,17 @@ COMP 2140 Data Structure and Algorithm
 1. [Train](https://github.com/Skadoosh777/Train)
    
          • Stimulated a Train to Drop or Append a cargo onto the train, and focused on the application of Linked-List by Java on Eclipse
+   
 2. [Leetcode](https://github.com/Skadoosh777/Leetcode)
    
          • Utilized Java on Leetcode and pushed code to Github by IDEA
+
 #### Java Mini Game, Manitoba, Canada 01/2020-04/2020
 COMP 2150 Object Orientation 
 1. [Whodunit](https://github.com/Skadoosh777/Whodunit)
    
          • A game that involves deduction to determine the “who, where and how” of a murder. (github.com) on Eclipse and IDEA 
+
 2. Spacecraft: stimulated a spacecraft : traveling in universe and built this project by Processing
 
 
