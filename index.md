@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pengyu Pages
 
 You can use the [editor on GitHub](https://github.com/Skadoosh777/pengyu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
