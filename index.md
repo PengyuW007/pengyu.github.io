@@ -21,6 +21,7 @@ Product Operation Assistant in Product Technology Center
     • Utilized Excel to design statistical tables and implement visualization for big data
      projects
     • Monitored and recorded data change of production content
+
 ## [PROJECTS](https://github.com/Skadoosh777?tab=repositories)
 ### Group Project
 
