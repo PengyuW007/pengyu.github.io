@@ -56,7 +56,9 @@ COMP 2150 Object Orientation
    
          • A game that involves deduction to determine the “who, where and how” of a murder. (github.com) on Eclipse and IDEA 
 
-2. Spacecraft: stimulated a spacecraft : traveling in universe and built this project by Processing
+2. Spacecraft
+         
+         • Stimulated a spacecraft : traveling in universe and built this project by Processing
 
 
 
