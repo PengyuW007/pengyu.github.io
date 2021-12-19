@@ -1,4 +1,10 @@
+<table border="0" >
+<tr>
+<td width="75%">
 <h1>Welcome to Pengyu Pages</h1> 
+</td>
+</tr>
+</table>
 
 ## Pengyu Wang
 
