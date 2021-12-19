@@ -1,10 +1,4 @@
-<table border="0" >
-<tr>
-<td width="50%">
-<h1>Welcome to Pengyu Pages</h1> 
-</td>
-</tr>
-</table>
+<h1 align ="center">Welcome to Pengyu Pages</h1> 
 
 ## Pengyu Wang
 
@@ -82,7 +76,9 @@ Gam Jam, Manitoba, Canada 12/2019-01/2020
 ## OTHERS
 
 ### Computer Skills
+
 #### Languages
+
       • Java
       • C++
       • C
@@ -92,6 +88,7 @@ Gam Jam, Manitoba, Canada 12/2019-01/2020
       • Assemble Language
 
 #### IDEs
+
       • IDEA
       • Eclipse
       • CLion
@@ -101,11 +98,13 @@ Gam Jam, Manitoba, Canada 12/2019-01/2020
       • LC3
 
 #### OS
+
       • Windows
       • Linux
       • Ubuntu/ Ubuntu on Windows
 
 ### Interests
+
       • Photography
       • Vlogger
 
