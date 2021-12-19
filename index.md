@@ -48,7 +48,7 @@ COMP 2140 Data Structure and Algorithm
 
 1. [Train](https://github.com/Skadoosh777/Train)
 
-         • Stimulated a Train to Drop or Append a cargo onto the train, and focused on the application of Linked-List by Java on Eclipse
+         • Stimulated a Train to Drop or Append a cargo of the train, and focused on the application of Linked-List by Java on Eclipse
 
 2. [Leetcode](https://github.com/Skadoosh777/Leetcode)
 
@@ -60,7 +60,7 @@ COMP 2150 Object Orientation
 
 1. [Whodunit](https://github.com/Skadoosh777/Whodunit)
 
-         • A game that involves deduction to determine the “who, where and how” of a murder. (github.com) on Eclipse and IDEA 
+         • A game that involves deduction to determine the “who, where and how” of a murder on Eclipse and IDEA 
 
 2. Spacecraft
 
