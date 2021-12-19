@@ -1,6 +1,6 @@
 <table border="0" >
 <tr>
-<td width="75%">
+<td width="50%">
 <h1>Welcome to Pengyu Pages</h1> 
 </td>
 </tr>
