@@ -6,12 +6,12 @@
 2. Github: [Personal Repositories](https://github.com/Skadoosh777)
 3. Homepage: [pengyu](https://skadoosh777.github.io/pengyu.github.io/)
 
-## EDUCATION
+<h2 align ="center"> EDUCATION</h2>
 
 1. University of Manitoba, Manitoba, Canada 05/2022
 2. Southwest Jiaotong University, Chengdu, China 09/2016-08/2018, BSc in Computer Science
 
-## WORK EXPERIENCE
+<h2 align ="center"> WORK EXPERIENCE</h2>
 
 Online Media Platform of Tencent, Sichuan, Chengdu, China, 07/2021-09/2021
 
@@ -22,7 +22,7 @@ Product Operation Assistant in Product Technology Center
      projects
     • Monitored and recorded data change of production content
 
-## [PROJECTS](https://github.com/Skadoosh777?tab=repositories)
+<h2 align="center"> <a href ="https://github.com/Skadoosh777?tab=repositories">PROJECTS</a> </h2>
 
 ### Group Project
 
