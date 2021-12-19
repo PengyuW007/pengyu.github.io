@@ -1,6 +1,6 @@
 <h1 align ="center">Welcome to Pengyu Pages</h1> 
 
-## Pengyu Wang
+<h2 align="center">  Pengyu Wang</h2>
 
 1. Email: PengyuWang777@outlook.com
 2. Github: [Personal Repositories](https://github.com/Skadoosh777)
@@ -66,14 +66,14 @@ COMP 2150 Object Orientation
 
          • Stimulated a spacecraft : traveling in universe and built this project by Processing
 
-## ACTIVITIES
+<h2 align="center"> ACTIVITIES</h2>
 
 Gam Jam, Manitoba, Canada 12/2019-01/2020
 
       • Made a video game from scratch with several groupmates in University of
       Manitoba
 
-## OTHERS
+<h2 align="center">  OTHERS</h2>
 
 ### Computer Skills
 
