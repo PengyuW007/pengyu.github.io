@@ -30,8 +30,8 @@ Product Operation Assistant in Product Technology Center
 
 COMP 4710 Data Mining, [Analyzer](https://github.com/Skadoosh777/COMP4710_Group14_Analyzer)
    
-      • To make the public to know the situation and how's everything of covid going by government, such as the tested cases, positive cases and so on.
-      • To show the tendency of Covid-19 , how it will go in the future. Distribution of people like ages, gender and region groups.
+      • Contribute knowledge from Data Mining, and use Big-Data to analyze COVID-19
+      • To make results more visualized by using Data Visualization 
 
 ##### Android Project, Manitoba, Canada 05/2021-09/2021
 
