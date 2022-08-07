@@ -7,7 +7,6 @@
 3. Github: [Personal Repositories](https://github.com/PengyuW007)
 4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang)
 
-<h2 align="center" width = 50 height=50>![Mobile](Personal webpage.png)
 
 <h2 align ="center"> EDUCATION</h2>
 
