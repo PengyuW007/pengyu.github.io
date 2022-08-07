@@ -26,27 +26,27 @@ Product Operation Assistant in Product Technology Center
      projects
     • Monitored and recorded data change of production content
 
-<h2 align="center"> <a href ="https://github.com/Skadoosh777?tab=repositories">PROJECTS</a> </h2>
+<h2 align="center"> <a href ="https://github.com/PengyuW007">PROJECTS</a> </h2>
 
 ### Group Project
 
 ##### Python Project, Manitoba, Canada 09/2021-12/2021
 
-COMP 4710 Data Mining, [Analyzer](https://github.com/Skadoosh777/COMP4710_Group14_Analyzer)
+COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer)
    
       • Contribute knowledge from Data Mining, and use Big-Data to analyze COVID-19
       • To make results more visualized by using Data Visualization 
 
 ##### Android Project, Manitoba, Canada 05/2021-09/2021
 
-COMP 3350 Software Engineering, [Courser](https://github.com/Skadoosh777/COMP-3350-Courser-public)
+COMP 3350 Software Engineering, [Courser](https://github.com/PengyuW007/COMP-3350-Courser-public)
 
     • Designed an app to help to course and make schedule on Android
     • Focused on Testing, such as Unit Tests, Acceptance Tests, Seam Tests, etc.
 
 #### Html Project, Manitoba, Canada 09/2020-12/2020
 
-COMP 3020 Human Computer Interaction,[Togo](https://github.com/Skadoosh777/Togo)
+COMP 3020 Human Computer Interaction,[Togo](https://github.com/emily0906/Togo)
 
     • Designed an online food ordering webpage and built on Visual Studio by
     JavaScript，CSS，and HTML
