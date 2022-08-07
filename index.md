@@ -5,7 +5,7 @@
 1. Email: PengyuWang777@outlook.com
 2. Linkedin: [Pengyu Wang](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
 3. Github: [Personal Repositories](https://github.com/PengyuW007)
-4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang) 
+4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang)
 
 <h2 align="center" width = 50 height=50>![Mobile](Personal webpage.png)
 
@@ -30,11 +30,13 @@ Product Operation Assistant in Product Technology Center
 ### Individual Project
 
 #### Android Project, Manitoba, Canada 05/2022-09/2022
+
 [Scheduler](https://github.com/PengyuW007/Scheduler_Android)
 
       • A schedule app for time of West China Second Hospital of Sichuan University of clinical lab.
 
 #### Android Project, Manitoba, Canada 05/2022-06/2022
+
 [Calculator](https://github.com/PengyuW007/Calculator_Android)
 
       • A calculator designed by myself, and add some new features to it.
@@ -44,7 +46,7 @@ Product Operation Assistant in Product Technology Center
 ##### Python Project, Manitoba, Canada 09/2021-12/2021
 
 COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer)
-   
+
       • Contribute knowledge from Data Mining, and use Big-Data to analyze COVID-19
       • To make results more visualized by using Data Visualization 
 
