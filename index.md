@@ -5,9 +5,7 @@
 1. Email: PengyuWang777@outlook.com
 2. Linkedin: [Pengyu Wang](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
 3. Github: [Personal Repositories](https://github.com/PengyuW007)
-4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang) / 
-   
-![Mobile](Personal webpage.png)
+4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang) / ![Mobile](Personal webpage.png)
 
 
 <h2 align ="center"> EDUCATION</h2>
