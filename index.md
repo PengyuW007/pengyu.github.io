@@ -7,7 +7,6 @@
 3. Github: [Personal Repositories](https://github.com/PengyuW007)
 4. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang)
 
-
 <h2 align ="center"> EDUCATION</h2>
 
 1. University of Manitoba, Manitoba, Canada 05/2022
