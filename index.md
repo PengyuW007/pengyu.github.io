@@ -3,8 +3,9 @@
 <h2 align="center">  Pengyu Wang</h2>
 
 1. Email: PengyuWang777@outlook.com
-2. Github: [Personal Repositories](https://github.com/Skadoosh777)
-3. Homepage: [pengyu](https://skadoosh777.github.io/pengyu.github.io/)
+2. Linkedin: [Pengyu Wang](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
+3. Homepage: Pengyu Wang [PC](https://pengyuwang777.wixsite.com/pengyuwang) / ![Mobile](Personal webpage.png)
+4. Github: [Personal Repositories](https://github.com/PengyuW007)
 
 <h2 align ="center"> EDUCATION</h2>
 
