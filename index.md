@@ -2,15 +2,15 @@
 
 <h2 align="center">  Pengyu Wang</h2>
 -->
+
 1. Email: PengyuWang777@outlook.com
 2. Linkedin: [Pengyu Wang](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
 3. Github: [Personal Repositories](https://github.com/PengyuW007)
 4. Homepage: Pengyu Wang [(here)](https://pengyuwang777.wixsite.com/pengyuwang)
 
-
 <h2 align ="center"> EDUCATION</h2>
 
-1. MSc in Computational Science, Laurentian University, Ontario, Canada, 09/2022 -  09/2023
+1. MSc in Computational Science, Laurentian University, Ontario, Canada, 09/2022 - 09/2023
 2. BSc in Computer Science, University of Manitoba, Manitoba, Canada, 01/2019 - 05/2022
 3. BSc in Computer Science, Southwest Jiaotong University, Chengdu, China, 09/2016 - 08/2018
 
@@ -27,17 +27,17 @@ Product Operation Assistant in Product Technology Center
 
 <h2 align="center"> <a href ="https://github.com/PengyuW007">PROJECTS</a> </h2>
 
-<h3 align="center"> ACADEMIC PROJECTS</a> </h3>
+<h3 align="center"> ACADEMIC PROJECTS </h3>
 
 #### Group Project
 
 ##### Python Project, Manitoba, Canada 09/2021-12/2021
 
-COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer), 
+COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer),
 
-([Presentation](https://umanitoba-my.sharepoint.com/personal/czubrytt_myumanitoba_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fczubrytt%5Fmyumanitoba%5Fca%2FDocuments%2FCOMP%204710%20Group%2014&ga=1),
+([Presentation](https://umanitoba-my.sharepoint.com/personal/czubrytt_myumanitoba_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fczubrytt%5Fmyumanitoba%5Fca%2FDocuments%2FCOMP%204710%20Group%2014&ga=1)
+,
 [Paper](Big Data Analysis and Data Visualization on COVID-19.pdf))
-
 
       • Contribute knowledge from Data Mining, and use Big-Data to analyze COVID-19
       • To make results more visualized by using Data Visualization 
@@ -69,6 +69,7 @@ COMP 3020 Human Computer Interaction,[Togo](https://github.com/emily0906/Togo)
 [Calculator](https://github.com/PengyuW007/Calculator_Android)
 
       • A calculator designed by myself, and add some new features to it.
+
 #### Java Project, Manitoba, Canada 05/2020-09/2020
 
 COMP 2140 Data Structure and Algorithm
