@@ -1,6 +1,6 @@
 # Welcome to Pengyu Pages
 
-My personal resume page.
+My [personal resume page](https://pengyuw007.github.io/pengyu.github.io/).
 
 I use the [editor on GitHub](https://github.com/PengyuW007/pengyu.github.io/edit/gh-pages/index.md) to maintain and preview 
 the content for my website in Markdown files.
