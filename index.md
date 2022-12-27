@@ -14,6 +14,11 @@
 2. BSc in Computer Science, University of Manitoba, Manitoba, Canada, 01/2019 - 05/2022
 3. BSc in Computer Science, Southwest Jiaotong University, Chengdu, China, 09/2016 - 08/2018
 
+<h3>COMPUTER SKILLS</h2>
+**Languages** - Java, C++, JavaScript, HTML, Python
+**IDEs** - JetBrains, Eclipse, Visual Studio
+**OS** - Windows, Linux, Ubuntu
+
 <h2 align ="center"> WORK EXPERIENCE</h2>
 
 Online Media Platform of Tencent, Sichuan, Chengdu, China, 07/2021-09/2021
@@ -30,6 +35,15 @@ Product Operation Assistant in Product Technology Center
 <h3 align="center"> ACADEMIC PROJECTS </h3>
 
 #### Group Project
+
+##### JavaScript Project, Ontario, Canada 
+CPSC 5416 Image Processing and Computer Vision,[Seam Carving](https://github.com/haokunzhang/seam-carving-js),
+
+([Presentation](https://docs.google.com/presentation/d/1baefUtgnmUMQzuKE2jryYe5W-C1SlbvDpIwdUpSS4Gk/edit#slide=id.p), 
+[Paper](https://github.com/haokunzhang/seam-carving-js/blob/master/CPSC_5416%20Content-Aware%20Image%20Resizing%20by%20Seam%20Caving.pdf))
+
+      • Javascript implementation of Seam Carver. 
+      • Seam Carver is a content-aware image resizing algorithm.
 
 ##### Python Project, Manitoba, Canada 09/2021-12/2021
 
@@ -102,34 +116,6 @@ Gam Jam, Manitoba, Canada 12/2019-01/2020
       Manitoba
 
 <h2 align="center">  OTHERS</h2>
-
-### Computer Skills
-
-#### Languages
-
-      • Java
-      • C++
-      • C
-      • JavaScript
-      • Processing
-      • Python
-      • Assemble Language
-
-#### IDEs
-
-      • IDEA
-      • Eclipse
-      • CLion
-      • Pycharm
-      • Visual Studio
-      • Processing3
-      • LC3
-
-#### OS
-
-      • Windows
-      • Linux
-      • Ubuntu/ Ubuntu on Windows
 
 ### Interests
 
