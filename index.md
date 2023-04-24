@@ -16,7 +16,9 @@
 
 <h3> COMPUTER SKILLS </h3>
 ** Languages ** - Java, C++, JavaScript, HTML, Python
+
 ** IDEs ** - JetBrains, Eclipse, Visual Studio
+
 ** OS ** - Windows, Linux, Ubuntu
 
 <h2 align ="center"> WORK EXPERIENCE</h2>
