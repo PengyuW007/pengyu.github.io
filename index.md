@@ -15,9 +15,9 @@
 3. BSc in Computer Science, Southwest Jiaotong University, Chengdu, China, 09/2016 - 08/2018
 
 <h3>COMPUTER SKILLS</h3>
-**Languages** - Java, C++, JavaScript, HTML, Python
-**IDEs** - JetBrains, Eclipse, Visual Studio
-**OS** - Windows, Linux, Ubuntu
+** Languages ** - Java, C++, JavaScript, HTML, Python
+** IDEs ** - JetBrains, Eclipse, Visual Studio
+** OS ** - Windows, Linux, Ubuntu
 
 <h2 align ="center"> WORK EXPERIENCE</h2>
 
