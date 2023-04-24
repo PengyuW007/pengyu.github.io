@@ -16,7 +16,7 @@
 
 <h3> COMPUTER SKILLS </h3>
 
-   **Languages** - Java, C++, JavaScript, HTML, Python
+   ** Languages ** - Java, C++, JavaScript, HTML, Python
 
    **IDEs** - JetBrains, Eclipse, Visual Studio
 
