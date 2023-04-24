@@ -34,9 +34,9 @@ Product Operation Assistant in Product Technology Center
 
 <h3 align="center"> ACADEMIC PROJECTS </h3>
 
-#### Group Project
+#### Group Project ####
 
-##### JavaScript Project, Ontario, Canada 
+##### JavaScript Project, Ontario, Canada ####
 CPSC 5416 Image Processing and Computer Vision,[Seam Carving](https://github.com/haokunzhang/seam-carving-js),
 
 ([Presentation](https://docs.google.com/presentation/d/1baefUtgnmUMQzuKE2jryYe5W-C1SlbvDpIwdUpSS4Gk/edit#slide=id.p), 
@@ -45,7 +45,7 @@ CPSC 5416 Image Processing and Computer Vision,[Seam Carving](https://github.com
       • Javascript implementation of Seam Carver. 
       • Seam Carver is a content-aware image resizing algorithm.
 
-##### Python Project, Manitoba, Canada 09/2021-12/2021
+##### Python Project, Manitoba, Canada 09/2021-12/2021 ####
 
 COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer),
 
