@@ -10,28 +10,26 @@
 
 <h2 align ="center"> EDUCATION</h2>
 
-1. MSc in Computational Science, Laurentian University, Ontario, Canada, 09/2022 - 09/2023
-2. BSc in Computer Science, University of Manitoba, Manitoba, Canada, 01/2019 - 05/2022
-3. BSc in Computer Science, Southwest Jiaotong University, Chengdu, China, 09/2016 - 08/2018
+1. MSc in Computational Science (Algorithms and Game Design), Laurentian University, Ontario, Canada, 09/2022 - 09/2024
+2. BSc. Major in Computer Science, Minor in Mathematics, University of Manitoba, Manitoba, Canada, 01/2019 - 05/2022
 
 <h3> COMPUTER SKILLS </h3>
 
-   <b>Languages</b> - Java, C++, JavaScript, HTML, Python
+   <b>Languages</b> - Java, C++, JavaScript, HTML, Python, MATLAB
 
    <b>IDEs</b> - JetBrains, Eclipse, Visual Studio
 
-   <b>OS</b> - Windows, Linux, Ubuntu
+   <b>OS</b> - Windows, Linux, Mac OS
 
 <h2 align ="center"> WORK EXPERIENCE</h2>
 
-Online Media Platform of Tencent, Sichuan, Chengdu, China, 07/2021-09/2021
+Tencent, Sichuan, Chengdu, China, 07/2021-09/2021
 
-Product Operation Assistant in Product Technology Center
-
-    • Participated in the daily operation of data traffic for the private domains
-    • Utilized Excel to design statistical tables and implement visualization for big data
+      • Product Operation Assistant in Product Technology Center
+      • Participated in the daily operation of data traffic for the private domains
+      • Utilized Excel to design statistical tables and implement visualization for big data
      projects
-    • Monitored and recorded data change of production content
+      • Monitored and recorded data change of production content
 
 <h2 align="center"> <a href ="https://github.com/PengyuW007">PROJECTS</a> </h2>
 
@@ -39,8 +37,13 @@ Product Operation Assistant in Product Technology Center
 
 #### Group Project ####
 
-##### JavaScript Project, Ontario, Canada ####
-CPSC 5416 Image Processing and Computer Vision,[Seam Carving](https://github.com/haokunzhang/seam-carving-js),
+###### MATLAB Project, Ontario, Canada 01/2023-05/2023 ####
+CPSC 5616 Machine and Deep Learning, [CPSC5616_Robot_Modelling](https://github.com/PengyuW007/CPSC5616_Robot_Modelling)
+
+      • Group project of robot modelling by using LSTMs of deep learning. (Currently private repo)
+
+###### JavaScript Project, Ontario, Canada 09/2022-12/2022####
+CPSC 5416 Image Processing and Computer Vision, [Seam Carving](https://github.com/haokunzhang/seam-carving-js),
 
 ([Presentation](https://docs.google.com/presentation/d/1baefUtgnmUMQzuKE2jryYe5W-C1SlbvDpIwdUpSS4Gk/edit#slide=id.p), 
 [Paper](https://github.com/haokunzhang/seam-carving-js/blob/master/CPSC_5416%20Content-Aware%20Image%20Resizing%20by%20Seam%20Caving.pdf))
@@ -48,7 +51,7 @@ CPSC 5416 Image Processing and Computer Vision,[Seam Carving](https://github.com
       • Javascript implementation of Seam Carver. 
       • Seam Carver is a content-aware image resizing algorithm.
 
-##### Python Project, Manitoba, Canada 09/2021-12/2021 ####
+###### Python Project, Manitoba, Canada 09/2021-12/2021 ####
 
 COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14_Analyzer),
 
@@ -59,14 +62,14 @@ COMP 4710 Data Mining, [Analyzer](https://github.com/PengyuW007/COMP4710_Group14
       • Contribute knowledge from Data Mining, and use Big-Data to analyze COVID-19
       • To make results more visualized by using Data Visualization 
 
-##### Android Project, Manitoba, Canada 05/2021-09/2021
+###### Android Project, Manitoba, Canada 05/2021-09/2021
 
 COMP 3350 Software Engineering, [Courser](https://github.com/PengyuW007/COMP-3350-Courser-public)
 
     • Designed an app to help to course and make schedule on Android
     • Focused on Testing, such as Unit Tests, Acceptance Tests, Seam Tests, etc.
 
-#### Html Project, Manitoba, Canada 09/2020-12/2020
+###### Html Project, Manitoba, Canada 09/2020-12/2020
 
 COMP 3020 Human Computer Interaction,[Togo](https://github.com/emily0906/Togo)
 
@@ -75,19 +78,19 @@ COMP 3020 Human Computer Interaction,[Togo](https://github.com/emily0906/Togo)
 
 <h3 align="center" > INDIVIDUAL PROJECTS </h3>
 
-##### Android Project, Manitoba, Canada 05/2022-09/2022
+###### Android Project, Manitoba, Canada 05/2022-09/2022
 
 [Scheduler](https://github.com/PengyuW007/Scheduler_Android)
 
       • A schedule app for time of West China Second Hospital of Sichuan University of clinical lab.
 
-##### Android Project, Manitoba, Canada 05/2022-06/2022
+###### Android Project, Manitoba, Canada 05/2022-06/2022
 
 [Calculator](https://github.com/PengyuW007/Calculator_Android)
 
       • A calculator designed by myself, and add some new features to it.
 
-#### Java Project, Manitoba, Canada 05/2020-09/2020
+###### Java Project, Manitoba, Canada 05/2020-09/2020
 
 COMP 2140 Data Structure and Algorithm
 
@@ -99,7 +102,7 @@ COMP 2140 Data Structure and Algorithm
 
          • Utilized Java on Leetcode and pushed code to Github by IDEA
 
-#### Java Mini Game, Manitoba, Canada 01/2020-04/2020
+##### Java Mini Game, Manitoba, Canada 01/2020-04/2020
 
 COMP 2150 Object Orientation
 
@@ -113,14 +116,16 @@ COMP 2150 Object Orientation
 
 <h2 align="center"> ACTIVITIES</h2>
 
+Invited Talk, Ontario, Canada 01/2023 - 04/2023
+
+      • Invited talk by Dr. Koczkodaj
+
 Gam Jam, Manitoba, Canada 12/2019-01/2020
 
       • Made a video game from scratch with several groupmates in University of
       Manitoba
 
-<h2 align="center">  OTHERS</h2>
-
-### Interests
+Interests
 
       • Photography
       • Vlogger
