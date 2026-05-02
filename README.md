@@ -1,6 +1,6 @@
 # Welcome to Pengyu Pages
 
-My [personal resume page](https://pengyuw007.github.io/).
+My [personal resume page](https://pengyuw007.github.io/pengyu.github.io/).
 ### Support or Contact
 
 Having trouble with Pages? Check out this [documentation](https://docs.github.com/categories/github-pages-basics/) 
