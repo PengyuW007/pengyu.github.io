@@ -14,10 +14,8 @@ body {
 header {
     position: sticky;
     top: 0;
-    z-index: 100;
-    background: rgba(255, 255, 255, 0.95);
+    background: white;
     border-bottom: 1px solid #e5e7eb;
-    backdrop-filter: blur(8px);
 }
 
 .nav-wrap {
@@ -37,13 +35,12 @@ header {
 
     font-size: 18px;
     font-weight: 700;
+    color: #0f172a;
 }
 
-.logo-box {
-    width: 28px;
-    height: 28px;
-    border-radius: 8px;
-    background: linear-gradient(135deg, #2563eb, #7c3aed);
+.logo-img {
+    height: 52px;
+    width: auto;
 }
 
 nav a {
@@ -133,6 +130,12 @@ nav a:hover {
     font-weight: 700;
 }
 
+.icon svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+}
+
 /* Icon colors */
 
 .icon.blue {
@@ -158,6 +161,11 @@ nav a:hover {
 .icon.pink {
     background: #fdf2f8;
     color: #db2777;
+}
+
+.icon.yellow{
+    background: #fef9c3;
+    color: #ca8a04;
 }
 
 /* Skill list */
@@ -192,6 +200,10 @@ nav a:hover {
 
 .pink-list li::marker {
     color: #db2777;
+}
+
+.yellow-list li::marker {
+    color: #d5db27;
 }
 
 /* Responsive */
