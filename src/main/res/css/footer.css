@@ -1,0 +1,18 @@
+/* Footer */
+
+footer {
+    border-top: 1px solid #e5e7eb;
+    padding: 26px 18px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: min(1200px, 92%);
+    margin: 0 auto;
+}
+
+footer p {
+    margin: 0;
+    color: #334155;
+}
