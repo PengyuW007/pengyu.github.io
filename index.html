@@ -5,7 +5,6 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <!-- import Lucide for cards' icons -->
-    <script src="https://unpkg.com/lucide@latest"></script>
     <title>Pengyu Wang</title>
     <link rel="stylesheet" href="src/main/res/css/navbar.css">
     <link rel="stylesheet" href="src/main/res/css/main_activity.css">
@@ -14,13 +13,13 @@
 <body>
 <header>
     <div class="nav-wrap">
-        <div class="logo">
+        <a href="index.html" class="logo">
             <img src="src/main/assets/drawable/Logo_Gradient.png" alt="Areonedev logo" class="logo-img">
             <span>Pengyu Wang</span>
-        </div>
+        </a>
 
         <nav aria-label="Primary">
-            <a href="index.html">Home</a>
+            <a href="src/main/res/layout/HomeActivity.html">Home</a>
             <a href="src/main/res/layout/AboutActivity.html">About</a>
             <a href="src/main/res/layout/ExperienceActivity.html">Experience</a>
             <a href="src/main/res/layout/SkillsActivity.html">Skills</a>
@@ -30,47 +29,28 @@
         </nav>
     </div>
 </header>
-<main class="hero" role="main">
-    <div class="container">
-        <div class="left-column">
-            <h1>Pengyu Wang</h1>
-            <h2>Software Developer & Data Analyst</h2>
-            <h3>Transforming data into insights and building robust software solutions. Specialized in full-stack development, data visualization, and statistical analysis.
-<!--            <h3>Learning is the best way to overcome boredom, stay curious,-->
-<!--                and continuously grow the skills needed to adapt, improve,-->
-<!--                and succeed in an ever-changing world. </h3>-->
-            </h3>
-                <div class="buttons">
-                <a href="src/main/res/layout/ContactActivity.html">Get In Touch</a>
-                <a href="src/main/res/layout/ProjectsActivity.html">View Projects</a>
-            </div>
+
+<main class="intro-page" id="introPage">
+
+    <div class="magnifier" id="magnifier"></div>
+
+    <section class="hero-content" id="heroContent">
+        <h1>
+            HELLO, I'M <span>Pengyu</span>
+        </h1>
+
+        <p>
+            Software Developer / Data Analyst / Toronto
+        </p>
+
+        <div class="enter-hint">
+            Click or press any key to enter
         </div>
-        <div class="right-column">
-            <div class="card">
-                <i data-lucide="code"></i>
-                <h3>Development</h3>
-                <p>Full-stack web & mobile applications</p>
-            </div>
-            <div class="card">
-                <i data-lucide="database"></i>
-                <h3>Data Engineering</h3>
-                <p>ETL pipelines & database design</p>
-            </div>
-            <div class="card">
-                <i data-lucide="trending-up"></i>
-                <h3>Analytics</h3>
-                <p>Statistical modeling & insights</p>
-            </div>
-            <div class="card">
-                <i data-lucide="bar-chart-3"></i>
-                <h3>Visualization</h3>
-                <p>Interactive dashboards & reports</p>
-            </div>
-        </div>
-    </div>
+    </section>
+
 </main>
-<script>
-    lucide.createIcons();
-</script>
+
+<script src="src/main/js/Main.js"></script>
+
 </body>
 </html>
