@@ -21,38 +21,28 @@ This portfolio serves as a centralized platform for:
 
 The website was developed using pure frontend technologies without external frameworks, focusing on clean architecture, responsive design, and lightweight performance.
 
-## Features
+## Download & Clone
 
-### Interactive Intro Animation
-- Mouse-following magnifier effect
-- Dynamic text rotation based on cursor movement
-- Minimalist Xiaomi-inspired landing page
-- Keyboard / mouse interaction to enter homepage
+Clone the repository:
+````
+git clone https://github.com/PengyuW007/pengyu.github.io.git
+````
+Open the project in WebStorm or any IDE.
 
-### Responsive Design
-- Desktop and mobile support
-- Adaptive grid layouts
-- Responsive navigation bar
+## Running Locally
 
-### Project Showcase
-- Full-stack development projects
-- Data analytics and machine learning projects
-- Automotive CRM platform
-- Web application development
+Since this is a static frontend website, simply open:
+````
+index.html
+````
+in your browser.
 
-### Technical Sections
-- About Me
-- Skills
-- Experience
-- Projects
-- Resume
-- Contact
+Recommended:
 
-### UI/UX Enhancements
-- Animated hover interactions
-- Glassmorphism navigation effects
-- Custom SVG and PNG branding assets
-- Structured card-based layouts
+- WebStorm Live Server
+- VSCode Live Server
+- Local HTTP Server
+
 
 ## Technologies Used
 
@@ -95,29 +85,6 @@ pengyu.github.io/
 ├── README.md
 ```
 
-## Download & Clone
-
-Clone the repository:
-````
-git clone https://github.com/PengyuW007/pengyu.github.io.git
-````
-Open the project in WebStorm or any IDE.
-
----
-## Running Locally
-
-Since this is a static frontend website, simply open:
-````
-index.html
-````
-in your browser.
-
-Recommended:
-
-- WebStorm Live Server
-- VSCode Live Server
-- Local HTTP Server 
----
 ## Deployment
 
 This website is deployed using GitHub Pages.
