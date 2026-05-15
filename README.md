@@ -82,7 +82,7 @@ pengyu.github.io/
 │           ├── js/
 │           └── layout/
 │
-├── README.md
+└── README.md
 ```
 
 ## Deployment
