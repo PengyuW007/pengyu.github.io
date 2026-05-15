@@ -8,8 +8,6 @@ The website is designed with a modern interactive UI inspired by minimalist prod
 
 🌐 https://pengyuw007.github.io/
 
----
-
 ## Overview
 
 This portfolio serves as a centralized platform for:
@@ -22,8 +20,6 @@ This portfolio serves as a centralized platform for:
 - Interactive frontend experiments
 
 The website was developed using pure frontend technologies without external frameworks, focusing on clean architecture, responsive design, and lightweight performance.
-
----
 
 ## Features
 
@@ -58,8 +54,6 @@ The website was developed using pure frontend technologies without external fram
 - Custom SVG and PNG branding assets
 - Structured card-based layouts
 
----
-
 ## Technologies Used
 
 ### Frontend
@@ -78,8 +72,6 @@ The website was developed using pure frontend technologies without external fram
 - WebStorm
 - Git
 - GitHub Pages
-
----
 
 ## Project Structure
 
@@ -102,7 +94,7 @@ pengyu.github.io/
 │
 ├── README.md
 ```
----
+
 ## Download & Clone
 
 Clone the repository:
@@ -135,7 +127,7 @@ Deployment is automatically handled through:
 ````
 GitHub Repository → GitHub Pages
 ````
----
+
 ## Author
 
 Pengyu Wang
@@ -145,7 +137,7 @@ Software Developer | Data Analyst | Machine Learning Enthusiast
 - [GitHub](https://github.com/PengyuW007)
 - [LinkedIn](https://www.linkedin.com/in/pengyu-wang-270a921b5/) 
 - [Portfolio](https://pengyuw007.github.io/) 
-- ---
+
 ## License
 
 This project is intended for personal portfolio and educational purposes.
